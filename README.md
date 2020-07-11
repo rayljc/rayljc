@@ -1,4 +1,4 @@
-### Hi there 👋
+### Happy coding! ／人◕ ‿‿ ◕人＼
 
 <!--
 **rayljc/rayljc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
